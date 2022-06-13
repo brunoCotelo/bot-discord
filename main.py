@@ -26,4 +26,4 @@ async def on_message(message):
 async def comandos(ctx):
 	await ctx.send('Meus comandos são:\n\n>comandos - Para listar os comandos\n>leo - Mandar leo sucumbir\n')
 
-client.run('NzEwOTI3NDM1NjgzNzI1Mzky.Xr7kxQ.9b0y2gik8XbC2cNF13s2UuKsjKc')
+client.run('token_do_bot')
